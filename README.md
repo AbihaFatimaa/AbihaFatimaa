@@ -56,3 +56,11 @@ I’m driven by curiosity and a desire to **learn, create, and contribute** to p
 ---
 
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or ideas!*  
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=AbihaFatimaa&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/AbihaFatimaa"
+  width="600"
+  height="300"
+/>
+</a>
